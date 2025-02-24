@@ -1,7 +1,7 @@
 # Matching Summaries
 
 ## Overview
-This repository contains supplementary tables for the study "Evaluating the Effectiveness of Online Learning Platforms Using Embedded Quasi-Experiments in Real-World Settings". These tables provide summaries of balance before and after matching, which was conducted using the MatchIt package in R [1]. The purpose of this repository is to enhance the transparency and reproducibility of the results presented in the paper.
+This repository contains supplementary tables for the study "Evaluating the Effectiveness of Online Learning Platforms Using Embedded Quasi-Experiments in Real-World Settings". These tables provide summaries of balance before and after matching, which was conducted using the MatchIt package in R [1]. Matching was performed to balance the 'on-topic' and 'off-topic' groups based on three selected covariates: 'practiceBefore', 'practiceDuring', and 'practiceDays'. The purpose of this repository is to enhance the transparency and reproducibility of the results presented in the study.
 
 ## Contents
 - 'matchingSummaries.pdf': This file contains tables of summary statistics for all grades and subjects included in the experiment with the online learning platform SYSTEM.
